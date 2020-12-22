@@ -1,4 +1,5 @@
 * Adding headers to dev server: https://webpack.js.org/configuration/dev-server/#devserverheaders-
+* Making files visible https://webpack.js.org/configuration/dev-server/#devserverwritetodisk-
 
 
 # Getting Started with Create React App

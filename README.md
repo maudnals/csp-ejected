@@ -1,3 +1,6 @@
+* Adding headers to dev server: https://webpack.js.org/configuration/dev-server/#devserverheaders-
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
